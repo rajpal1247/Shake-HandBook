@@ -1,0 +1,14 @@
+.mySlider
+{
+	width:72%;
+	height:70%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:6.5%;
+	margin-left:14%;
+	opacity:0.8;	
+}
+.myslider:hover
+{
+	opacity:1.0;	
+}
